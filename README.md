@@ -42,53 +42,21 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Suvoda RTSM / IRT](https://www.suvoda.com/)**  
-
-  Configurable RTSM platform known for rapid study startup, support for complex protocols (oncology, rare disease, adaptive designs), and modern AI-assisted configuration.
-
-
-
-- **[Medidata RTSM](https://www.medidata.com/)**  
-
-  Randomization and trial supply management tightly integrated with the Medidata clinical platform (EDC and broader suite) for end-to-end trial execution.
-
-
-
-- **[Endpoint Clinical IRT](https://www.endpointclinical.com/)**  
-
-  Specialized IRT/RTSM solution focused on synchronized randomization, enrollment, and supply decisions with strong traceability.
-
-
-
-- **[4G Clinical (Prancer RTSM)](https://www.4gclinical.com/)**  
-
-  Flexible, configurable RTSM platform emphasizing speed of deployment and support for simple to highly complex trial designs and inventory management.
-
-
-
-- **[Almac RTSM / IXR](https://www.almacgroup.com/)**  
-
-  End-to-end clinical supply and IRT solutions that combine digital randomization/supply management with physical packaging and logistics capabilities.
-
-
-
-- **[Oracle Clinical One RTSM](https://www.oracle.com/)**  
-
-  Randomization and trial supply management within the Oracle Clinical One platform for unified clinical trial operations.
-
-
-
-- **[Signant Health, Sharp RTSM, Clinion](https://www.signanthealth.com/)**  
-
-  RTSM and eClinical solutions supporting randomization, supply, and patient-facing services across various trial types.
-
-
-
-- **[Other IRT / RTSM platforms](https://www.suvoda.com/)**  
-
-  Additional commercial systems covering interactive voice/web response, direct-to-patient supply, and advanced forecasting.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Suvoda RTSM / IRT](https://www.suvoda.com/)** | Configurable RTSM platform known for rapid study startup, support for complex protocols (oncology, rare disease, adaptive designs), and AI-assisted configuration. | Starts at $25,000/study (rapid-startup deployment tier for Phase I/II protocols) | 14-day interactive prototype sandbox trial with protocol simulation and drug dispensation preview |
+| **[Medidata RTSM](https://www.medidata.com/)** | Unified randomization and trial supply management tightly integrated with Medidata Rave EDC for end-to-end trial execution. | Starts at $10,000/study (Rave Lite entry tier for Phase I & early-stage trials) | 30-day sandbox trial environment with simulated randomization test data upon sponsor evaluation request |
+| **[Endpoint Clinical IRT](https://www.endpointclinical.com/)** | Specialized IRT/RTSM solution focused on synchronized randomization, patient enrollment, and real-time supply traceability. | Starts at $20,000/study (core IRT configuration tier for Phase I/II trials) | 14-day proof-of-concept sandbox trial with mock supply dispensation and randomization workflows |
+| **[4G Clinical (Prancer RTSM)](https://www.4gclinical.com/)** | Natural language-driven RTSM platform supporting rapid deployment, adaptive trial designs, and integrated supply forecasting. | Starts at $20,000/study (Prancer Lite tier for early-phase protocols) | 14-day sandbox access with natural language protocol configuration demo and simulation trial |
+| **[Almac RTSM / IXRS](https://www.almacgroup.com/)** | End-to-end clinical supply and IRT platform pairing digital randomization with physical packaging, labeling, and global logistics. | Starts at $25,000/study (IXRS Express entry tier for Phase I trials) | 14-day staging evaluation sandbox with temperature tracking and mock distribution workflows |
+| **[Oracle Clinical One RTSM](https://www.oracle.com/life-sciences/clinical-trials/clinical-one/)** | Cloud-native randomization and trial supply management integrated within the Oracle Clinical One platform for unified study operations. | Starts at $1,500/month (or ~$15,000/study entry baseline on Oracle Health Sciences Cloud schedule) | 30-day evaluation access to Oracle Clinical One sandbox with pre-configured sample study protocol |
+| **[Signant Health (SmartSignals RTSM)](https://www.signanthealth.com/)** | Purpose-built IRT/RTSM for patient randomization, drug dispensation, and automated resupply across decentralized and traditional clinical trials. | Starts at $20,000/study (SmartSignals RTSM core configuration starting tier) | 14-day pilot sandbox environment with automated patient randomization and blinded dispensation scenarios |
+| **[Sharp RTSM](https://www.sharpservices.com/)** | Clinical supply and IRT platform combining physical packaging/distribution management with software-driven randomization and tracking. | Starts at $18,000/study (entry packaging-integrated RTSM supply management setup) | 14-day guided staging environment and pilot resupply simulation trial |
+| **[Clinion RTSM](https://www.clinion.com/)** | Integrated eClinical platform combining EDC and RTSM with automated randomization, site inventory tracking, and drug accountability. | Starts at $1,000/month (core RTSM/EDC cloud subscription tier for Phase I/early-phase studies) | 30-day free trial sandbox with interactive guided workflow and 1 test study environment |
+| **[Sealed Envelope](https://www.sealedenvelope.com/)** | Cloud-based randomization and online trial management system specializing in block/stratified allocation and CTIMP compliance. | £95 one-off fee (setup & first 50 randomisations; £95/subsequent 50 randomisations); Comprehensive CTIMP tier starts at £2,270 setup + £80/month | Free for non-commercial trials up to 50 randomisations; Free for student projects up to 100 randomisations; Free unlimited online randomisation list generator |
+| **[Castor EDC & Randomization](https://www.castoredc.com/)** | Electronic data capture and integrated variable-block randomization platform for medical devices and academic/commercial clinical trials. | Starts at $349/month (entry subscription tier for small studies) | Free forever for single-institute studies up to 125 inclusions and max 12-month study duration (Castor Impact/Free plan); Sandbox testing up to 50 fields and 10 records |
+| **[Medrio RTSM](https://www.medrio.com/)** | No-code eClinical suite featuring point-and-click randomization, supply dispensation, and mid-study protocol change capabilities. | Starts at $1,200/month (or $15,000/study build fee for Phase I/II trials) | Free forever via Medrio Scholars Program for university and grant-funded non-commercial academic research; 14-day guided sandbox trial on request |
+| **[OpenClinica](https://www.openclinica.com/)** | Electronic clinical trial platform supporting integrated randomization, eConsent, and electronic data capture. | Starts at $1,000/month ($12,000/year for hosted Enterprise edition) | Free forever for Community Edition (open-source self-hosted, unlimited studies and users); 14-day free trial sandbox for hosted Enterprise |
 
 
 
