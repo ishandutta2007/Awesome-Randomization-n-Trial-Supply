@@ -66,60 +66,60 @@ This repository tracks premier **commercial SaaS platforms** and validated **ope
 
 ## 💻 Open-Source GitHub Projects & Toolkits
 
-*Repositories are sorted in descending order by GitHub stargazer count. Click any star badge to view stargazers.*
+*Repositories are sorted in descending order by GitHub stargazer count. Click any Stars_Badge to view stargazers.*
 
-1. **[OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)  
+1. **[OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)  
    The world's first commercial open-source clinical trial software for Electronic Data Capture (EDC) and Clinical Data Management (CDM) with built-in subject scheduling and allocation logic.
 
-2. **[admiral](https://github.com/pharmaverse/admiral)** [![GitHub stars](https://img.shields.io/github/stars/pharmaverse/admiral?style=social&color=white)](https://github.com/pharmaverse/admiral/stargazers)  
+2. **[admiral](https://github.com/pharmaverse/admiral)** [![GitHub_Stars](https://img.shields.io/github/stars/pharmaverse/admiral?style=social&color=white)](https://github.com/pharmaverse/admiral/stargazers)  
    Modular, open-source R package developed by the pharmaverse initiative providing robust building blocks for deriving CDISC ADaM datasets in regulated clinical trials.
 
-3. **[teal](https://github.com/insightsengineering/teal)** [![GitHub stars](https://img.shields.io/github/stars/insightsengineering/teal?style=social&color=white)](https://github.com/insightsengineering/teal/stargazers)  
+3. **[teal](https://github.com/insightsengineering/teal)** [![GitHub_Stars](https://img.shields.io/github/stars/insightsengineering/teal?style=social&color=white)](https://github.com/insightsengineering/teal/stargazers)  
    Interactive Shiny-based web application framework by Insights Engineering designed for exploratory data analysis, real-time safety monitoring, and trial data visualization.
 
-4. **[rtables](https://github.com/pharmaverse/rtables)** [![GitHub stars](https://img.shields.io/github/stars/pharmaverse/rtables?style=social&color=white)](https://github.com/pharmaverse/rtables/stargazers)  
+4. **[rtables](https://github.com/pharmaverse/rtables)** [![GitHub_Stars](https://img.shields.io/github/stars/pharmaverse/rtables?style=social&color=white)](https://github.com/pharmaverse/rtables/stargazers)  
    Comprehensive clinical trial reporting table engine in R for regulatory submissions, patient disposition summaries, and adverse event tabulations.
 
-5. **[Clinical-Trial-Parser](https://github.com/facebookresearch/Clinical-Trial-Parser)** [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/Clinical-Trial-Parser?style=social&color=white)](https://github.com/facebookresearch/Clinical-Trial-Parser/stargazers)  
+5. **[Clinical-Trial-Parser](https://github.com/facebookresearch/Clinical-Trial-Parser)** [![GitHub_Stars](https://img.shields.io/github/stars/facebookresearch/Clinical-Trial-Parser?style=social&color=white)](https://github.com/facebookresearch/Clinical-Trial-Parser/stargazers)  
    Natural language processing library by Meta/Facebook Research for parsing unstructured clinical trial eligibility criteria into standardized, machine-readable cohort stratification logic.
 
-6. **[riskmetric](https://github.com/pharmaR/riskmetric)** [![GitHub stars](https://img.shields.io/github/stars/pharmaR/riskmetric?style=social&color=white)](https://github.com/pharmaR/riskmetric/stargazers)  
+6. **[riskmetric](https://github.com/pharmaR/riskmetric)** [![GitHub_Stars](https://img.shields.io/github/stars/pharmaR/riskmetric?style=social&color=white)](https://github.com/pharmaR/riskmetric/stargazers)  
    Framework by the R Validation Hub (PharmaR) to evaluate the risk, software quality, and regulatory validation compliance of R packages used in clinical studies.
 
-7. **[clinical-trial-outcome-prediction](https://github.com/futianfan/clinical-trial-outcome-prediction)** [![GitHub stars](https://img.shields.io/github/stars/futianfan/clinical-trial-outcome-prediction?style=social&color=white)](https://github.com/futianfan/clinical-trial-outcome-prediction/stargazers)  
+7. **[clinical-trial-outcome-prediction](https://github.com/futianfan/clinical-trial-outcome-prediction)** [![GitHub_Stars](https://img.shields.io/github/stars/futianfan/clinical-trial-outcome-prediction?style=social&color=white)](https://github.com/futianfan/clinical-trial-outcome-prediction/stargazers)  
    Deep learning framework (Hierarchical Interaction Network - HINT) and benchmark dataset for predicting clinical trial approval probability, patient recruitment success, and study risk (*Cell Patterns*).
 
-8. **[SAS-Clinical-Trials-Toolkit](https://github.com/wyp1125/SAS-Clinical-Trials-Toolkit)** [![GitHub stars](https://img.shields.io/github/stars/wyp1125/SAS-Clinical-Trials-Toolkit?style=social&color=white)](https://github.com/wyp1125/SAS-Clinical-Trials-Toolkit/stargazers)  
+8. **[SAS-Clinical-Trials-Toolkit](https://github.com/wyp1125/SAS-Clinical-Trials-Toolkit)** [![GitHub_Stars](https://img.shields.io/github/stars/wyp1125/SAS-Clinical-Trials-Toolkit?style=social&color=white)](https://github.com/wyp1125/SAS-Clinical-Trials-Toolkit/stargazers)  
    Production-tested SAS macro library for clinical trial workflows, including SDTM domain generation, ADaM derivation, Define.xml generation, and randomization verification.
 
-9. **[tern](https://github.com/pharmaverse/tern)** [![GitHub stars](https://img.shields.io/github/stars/pharmaverse/tern?style=social&color=white)](https://github.com/pharmaverse/tern/stargazers)  
+9. **[tern](https://github.com/pharmaverse/tern)** [![GitHub_Stars](https://img.shields.io/github/stars/pharmaverse/tern?style=social&color=white)](https://github.com/pharmaverse/tern/stargazers)  
    Table, Listings, and Graphs (TLG) library providing standardized analysis outputs for common clinical trial efficacy, safety, and patient baseline characteristics.
 
-10. **[safetyGraphics](https://github.com/SafetyGraphics/safetyGraphics)** [![GitHub stars](https://img.shields.io/github/stars/SafetyGraphics/safetyGraphics?style=social&color=white)](https://github.com/SafetyGraphics/safetyGraphics/stargazers)  
+10. **[safetyGraphics](https://github.com/SafetyGraphics/safetyGraphics)** [![GitHub_Stars](https://img.shields.io/github/stars/SafetyGraphics/safetyGraphics?style=social&color=white)](https://github.com/SafetyGraphics/safetyGraphics/stargazers)  
     Interactive R Shiny clinical trial safety evaluation graphics and dashboards for monitoring patient hepatic, cardiac, and laboratory safety profiles.
 
-11. **[VICTRE](https://github.com/DIDSR/VICTRE)** [![GitHub stars](https://img.shields.io/github/stars/DIDSR/VICTRE?style=social&color=white)](https://github.com/DIDSR/VICTRE/stargazers)  
+11. **[VICTRE](https://github.com/DIDSR/VICTRE)** [![GitHub_Stars](https://img.shields.io/github/stars/DIDSR/VICTRE?style=social&color=white)](https://github.com/DIDSR/VICTRE/stargazers)  
     Virtual Imaging Clinical Trial for Regulatory Evaluation developed by the US FDA to run end-to-end in-silico clinical trials with synthetic patient cohort simulation.
 
-12. **[LibreClinica](https://github.com/reliatec-gmbh/LibreClinica)** [![GitHub stars](https://img.shields.io/github/stars/reliatec-gmbh/LibreClinica?style=social&color=white)](https://github.com/reliatec-gmbh/LibreClinica/stargazers)  
+12. **[LibreClinica](https://github.com/reliatec-gmbh/LibreClinica)** [![GitHub_Stars](https://img.shields.io/github/stars/reliatec-gmbh/LibreClinica?style=social&color=white)](https://github.com/reliatec-gmbh/LibreClinica/stargazers)  
     Community-driven open-source clinical trial software for Electronic Data Capture (EDC) and Clinical Data Management (CDM), preserving 21 CFR Part 11 audit trails and subject tracking.
 
-13. **[gsDesign](https://github.com/keaven/gsDesign)** [![GitHub stars](https://img.shields.io/github/stars/keaven/gsDesign?style=social&color=white)](https://github.com/keaven/gsDesign/stargazers)  
+13. **[gsDesign](https://github.com/keaven/gsDesign)** [![GitHub_Stars](https://img.shields.io/github/stars/keaven/gsDesign?style=social&color=white)](https://github.com/keaven/gsDesign/stargazers)  
     Standard biostatistical tool for group sequential design in clinical trials, providing boundary calculation, interim analysis planning, and adaptive trial simulation.
 
-14. **[unbiased](https://github.com/ttscience/unbiased)** [![GitHub stars](https://img.shields.io/github/stars/ttscience/unbiased?style=social&color=white)](https://github.com/ttscience/unbiased/stargazers)  
+14. **[unbiased](https://github.com/ttscience/unbiased)** [![GitHub_Stars](https://img.shields.io/github/stars/ttscience/unbiased?style=social&color=white)](https://github.com/ttscience/unbiased/stargazers)  
     Lightweight, containerized REST API microservice dedicated to clinical trial patient randomization with deterministic assignment reproducibility.
 
-15. **[Clinical-trial-randomization-in-Python](https://github.com/JohnBracken/Clinical-trial-randomization-in-Python)** [![GitHub stars](https://img.shields.io/github/stars/JohnBracken/Clinical-trial-randomization-in-Python?style=social&color=white)](https://github.com/JohnBracken/Clinical-trial-randomization-in-Python/stargazers)  
+15. **[Clinical-trial-randomization-in-Python](https://github.com/JohnBracken/Clinical-trial-randomization-in-Python)** [![GitHub_Stars](https://img.shields.io/github/stars/JohnBracken/Clinical-trial-randomization-in-Python?style=social&color=white)](https://github.com/JohnBracken/Clinical-trial-randomization-in-Python/stargazers)  
     Python framework for clinical trial patient allocation, permuted block randomization, stratification balancing, and allocation concealment validation.
 
-16. **[randomizeR](https://github.com/cran/randomizeR)** [![GitHub stars](https://img.shields.io/github/stars/cran/randomizeR?style=social&color=white)](https://github.com/cran/randomizeR/stargazers)  
+16. **[randomizeR](https://github.com/cran/randomizeR)** [![GitHub_Stars](https://img.shields.io/github/stars/cran/randomizeR?style=social&color=white)](https://github.com/cran/randomizeR/stargazers)  
     Scientifically validated R package (RWTH Aachen University) for the design, assessment, and comparison of clinical trial randomization procedures (permuted block, big stick, minimization, biased coin).
 
-17. **[blockrand](https://github.com/cran/blockrand)** [![GitHub stars](https://img.shields.io/github/stars/cran/blockrand?style=social&color=white)](https://github.com/cran/blockrand/stargazers)  
+17. **[blockrand](https://github.com/cran/blockrand)** [![GitHub_Stars](https://img.shields.io/github/stars/cran/blockrand?style=social&color=white)](https://github.com/cran/blockrand/stargazers)  
     Specialized R package for generating block randomization schedules for clinical trials, supporting stratification factors, variable block lengths, and printable randomization sheets.
 
-18. **[randomPlatform](https://github.com/yangpluszhu/randomPlatform)** [![GitHub stars](https://img.shields.io/github/stars/yangpluszhu/randomPlatform?style=social&color=white)](https://github.com/yangpluszhu/randomPlatform/stargazers)  
+18. **[randomPlatform](https://github.com/yangpluszhu/randomPlatform)** [![GitHub_Stars](https://img.shields.io/github/stars/yangpluszhu/randomPlatform?style=social&color=white)](https://github.com/yangpluszhu/randomPlatform/stargazers)  
     Open clinical trial randomization web application with central allocation management and basic user role authorization.
 
 ---
@@ -140,7 +140,7 @@ Contributions are warmly welcomed! Please follow these guidelines:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a topic branch**: `git checkout -b feature/add-platform`.
-3. 📝 **Add or edit entries**: Maintain the tabular format for SaaS products (including specific starting prices, free tier limits, and valuation) or include social star badges linking to stargazers for open-source repositories.
+3. 📝 **Add or edit entries**: Maintain the tabular format for SaaS products (including specific starting prices, free tier limits, and valuation) or include social Stars_Badges linking to stargazers for open-source repositories.
 4. 📬 **Submit a Pull Request** with a concise summary of the addition or update.
 
 ---
